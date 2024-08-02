@@ -25,3 +25,14 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/young-anakin/A2SVWebDevLearningPath.git
+1. **Add New Task**
+![Screenshot (842)](https://github.com/user-attachments/assets/75bdc57c-4874-4797-b35a-0bed9bda9278)
+2. **Update Task**
+![Screenshot (845)](https://github.com/user-attachments/assets/7ed0007b-c4b3-4093-8466-36dc4ac93473)
+3. **Delete Task (Action)**
+![Screenshot (843)](https://github.com/user-attachments/assets/9b8caa82-05df-4fb2-aba7-f8e18693c114)
+4. **Task Deleted (Result)**
+![Screenshot (844)](https://github.com/user-attachments/assets/57589fa7-3e48-451e-b66a-c685562f3bd3)
+
+
+
